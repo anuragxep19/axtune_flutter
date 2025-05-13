@@ -30,8 +30,8 @@ This project helped me dive deeper into MVVM architecture, responsive UI composi
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/anuragep19/axtune-flutter.git
-   cd axtune-flutter
+   git clone https://github.com/anuragxep19/axtune_flutter.git
+   cd axtune_flutter
    ```
 
 1. **Install dependencies**:
@@ -61,7 +61,7 @@ This project helped me dive deeper into MVVM architecture, responsive UI composi
 
 ```tree
 
-axtune-flutter/
+axtune/
 ├── lib/                          # Main application source
 │   ├── model/                    # Music data models
 │   ├── utils/                    # Permission handling and utilities
@@ -159,6 +159,6 @@ axtune-flutter/
 ## Author
 
 **Anurag E P**  
-[GitHub: @anuragep19](https://github.com/anuragep19)  
+[GitHub: @anuragxep19](https://github.com/anuragxep19)  
 
 ---

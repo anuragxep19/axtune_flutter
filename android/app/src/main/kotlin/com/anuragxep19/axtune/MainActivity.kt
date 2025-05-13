@@ -1,4 +1,4 @@
-package com.anuragep19.axtune
+package com.anuragxep19.axtune
 
 import io.flutter.embedding.android.FlutterActivity
 
